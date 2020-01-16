@@ -1,2 +1,2 @@
 # OnlineShopping
-online shoppin cart using spring boot web service
+online shopping cart using spring boot web service
